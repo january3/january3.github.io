@@ -1,0 +1,11 @@
+---
+title: "Frist Psot!"
+description: "This is my first post on my new blog!"
+author: "January Weiner"
+date: "2020-11-15"
+categories:
+  - misc
+---
+
+This is my frist psot! Just checking out how the quarto blog works. Should
+be sufficient for ad hoc articles and such.

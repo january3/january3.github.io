@@ -4,14 +4,17 @@ project:
 
 website:
   title: "January Weiner"
+  site-url: "https://january3.github.io"
+  description: "Personal website of January Weiner"
   navbar:
     left:
       - bioinformatics.qmd
       - books.qmd
+      - blog.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
