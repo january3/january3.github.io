@@ -2,8 +2,20 @@
 title: "January Weiner"
 ---
 
-All about me.
+
+# All about me.
 
  * [Google scholar profile](https://scholar.google.com/citations?user=1234567890)
  * [ORCID](https://orcid.org/0000-0003-1438-7819)
  * [CUBI](https://cubi.bihealth.org)
+
+# Blogs:
+
+ * [Biokompost](https://january3.github.io/biokompost/) [popular science, Polish]
+
+# Popular science articles (Polish):
+
+ * [Przekrój](https://przekroj.org/autorzy/january-weiner-pl/) 
+
+ 
+

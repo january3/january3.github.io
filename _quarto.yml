@@ -6,11 +6,8 @@ website:
   title: "January Weiner"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - bioinformatics.qmd
       - books.qmd
-      - about.qmd
 
 format:
   html:
