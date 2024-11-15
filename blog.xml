@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>January Weiner</title>
+<link>https://january3.github.io/blog.html</link>
+<atom:link href="https://january3.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of January Weiner</description>
+<generator>quarto-1.6.33</generator>
+<lastBuildDate>Sat, 14 Nov 2020 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Frist Psot!</title>
+  <dc:creator>January Weiner</dc:creator>
+  <link>https://january3.github.io/posts/firstpsot.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is my frist psot! Just checking out how the quarto blog works. Should be sufficient for ad hoc articles and such.</p>
+
+
+
+ ]]></description>
+  <category>misc</category>
+  <guid>https://january3.github.io/posts/firstpsot.html</guid>
+  <pubDate>Sat, 14 Nov 2020 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
