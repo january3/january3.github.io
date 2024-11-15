@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "bioinformatics.html",
+    "href": "bioinformatics.html",
+    "title": "Bioinformatics",
+    "section": "",
+    "text": "Some of my bioinformatics projects.\n\ntmod – an R package for gene set enrichment analysis. It implements a novel method for gene set enrichment analysis which beats other in terms of biological reproducibility (Zyla et al. and Weiner, 2019)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "January Weiner",
+    "section": "",
+    "text": "All about me.\n\nGoogle scholar profile\nORCID\nCUBI"
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "My books:\n\nPolish:\nJak powstało życie na Ziemi\nNie daj się wkręcać szarlatanom\nTechnika pisania i prezentowania przyrodniczych prac naukowych\nEnglish\n5 days of R"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
